@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+*.iml
+target
+*.imi
+
+.idea/*
+.idea
+/build/
+
+/temp
